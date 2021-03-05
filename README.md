@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
 
-Awesome-coffee is a curated list of resources to help you become the best version of your self. This list is sponsored by [Kaffeine Minds Coffee Company](https://kaffeineminds.com).
+Awesome-coffee is a curated list of resources to help you become the best version of yourself. This list is sponsored by [Kaffeine Minds Coffee Company](https://kaffeineminds.com).
 
 ## Contents (Comming Soon)
 
