@@ -11,12 +11,14 @@ Awesome-coffee is a curated list of resources to help you become the best versio
 - [Stress Managment](#stress-managment)
 - [Cognitive Behavioral Therapy (CBT)](#cognitive-behavioral-therapy)
 - [Neuro-linguisting programming (NLP)](#neuro-linguisting-programming)
+- [Books](#books)
 
 ## Productivity Tools
 
 - [Promodofocus](https://pomofocus.io/)
 - [Tomato Timer](https://tomato-timer.com/)
 - [Meeter](https://trymeeter.com/)
+- [Oura Ring](https://ouraring.com/)
 
 ## Productivity Techniques 
 
