@@ -4,7 +4,7 @@
 
 Awesome-coffee is a curated list of resources to help you become the best version of yourself. This list is sponsored by [Kaffeine Minds Coffee Company](https://kaffeineminds.com).
 
-## Contents (Comming Soon)
+## Content
 
 - [Productivity Tools](#productivity-tools)
 - [Productivity Techniques](#productivity-techniques)
