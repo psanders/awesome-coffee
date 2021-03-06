@@ -14,9 +14,14 @@ Awesome-coffee is a curated list of resources to help you become the best versio
 
 ## Productivity Tools
 
+- [Promodofocus](https://pomofocus.io/)
 - [Tomato Timer](https://tomato-timer.com/)
+- [Meeter](https://trymeeter.com/)
 
 ## Productivity Techniques 
+
+- [Promodor](https://medium.com/@nasreen.fatima/promodor-techniques-775058c3a174)
+
 ## Stress Managment
 ## Cognitive Behavioral Therapy
 ## Neuro-linguisting programming
