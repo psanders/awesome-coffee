@@ -17,44 +17,44 @@ A curated **and opinionated** list of resources for Software Engineers, with the
 
 General
 
-Meditation
-Avoid interruptions
-White noise is your friend
-Eat well and exercise
-Maintaining good energy levels
-[Staying focus](https://www.focusmate.com/)
+- Meditation
+- Avoid interruptions
+- White noise is your friend
+- Eat well and exercise
+- Maintaining good energy levels
+- [Staying focus](https://www.focusmate.com/)
 
 Better Sleep
 
-Circadian rhythm
-Sleep regulation with melatonin
-[Blue light has a dark side(Harvard article)](https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side)
-[Blue blockers glasses (Amazon)](https://www.amazon.com/blue-blocker-glasses/s?k=blue+blocker+glasses)
-[Track your sleep](https://ouraring.com/)
-[Get better sleep with blackouts](https://www.youtube.com/watch?v=0O2gpMDUr7o)
-Keep nice cool temperature
+- Circadian rhythm
+- Sleep regulation with melatonin
+- [Blue light has a dark side(Harvard article)](https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side)
+- [Blue blockers glasses (Amazon)](https://www.amazon.com/blue-blocker-glasses/s?k=blue+blocker+glasses)
+- [Track your sleep](https://ouraring.com/)
+- [Get better sleep with blackouts](https://www.youtube.com/watch?v=0O2gpMDUr7o)
+- Keep nice cool temperature
 
 ## Time Management
 
-Promodoro
-[Tomato-timer](https://tomato-timer.com/)
+- Promodoro
+- [Tomato-timer](https://tomato-timer.com/)
 
 ## Stress Management
 
 ## Journals
 
-Bullet Journal
-Decision journal
-Mood Journal
+- Bullet Journal
+- Decision journal
+- Mood Journal
 
 ## Collaboration
 
-[Faster meetings](https://trymeeter.com/)
+- [Faster meetings](https://trymeeter.com/)
 
 ## Books
 
 ## Misc
 
-Deep/shallow work
-Attention disorder
-Bucket List
+- Deep/shallow work
+- Attention disorder
+- Bucket List
