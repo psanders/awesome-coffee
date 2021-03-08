@@ -15,7 +15,7 @@ A curated **and opinionated** list of resources for Software Engineers, with the
 - [Books](#books)
 - [Misc](#books)
 
-General
+## General
 
 - Meditation
 - Avoid interruptions
@@ -24,7 +24,7 @@ General
 - Maintaining good energy levels
 - [Staying focus](https://www.focusmate.com/)
 
-Better Sleep
+## Better Sleep
 
 - Circadian rhythm
 - Sleep regulation with melatonin
