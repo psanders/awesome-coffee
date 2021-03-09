@@ -36,14 +36,14 @@ A curated **and opinionated** list of resources for Software Engineers, with the
 
 ## Time Management
 
-- Promodoro
+- Pomodoro
 - [Tomato-timer](https://tomato-timer.com/)
 
 ## Stress Management
 
 ## Journals
 
-- Bullet Journal
+- [Bullet Journal](https://bulletjournal.com/)
 - Decision journal
 - Mood Journal
 
@@ -52,6 +52,8 @@ A curated **and opinionated** list of resources for Software Engineers, with the
 - [Faster meetings](https://trymeeter.com/)
 
 ## Books
+
+- [On Managing Yourself](https://www.amazon.com/Managing-Yourself-Measure-Clayton-Christensen/dp/1422157997)
 
 ## Misc
 
