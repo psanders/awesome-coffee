@@ -40,7 +40,7 @@ A curated **and opinionated** list of resources for Software Engineers, with the
 
 - [Do the ugly things first](https://www.youtube.com/watch?v=oTugjssqOT0&t=1256s)
 - [Find your creative time](https://youtu.be/oTugjssqOT0?t=2716)
-- Pomodoro
+- [Pomodoro Technique](https://medium.com/@hectormunozg/complete-guide-to-the-pomodoro-technique-613d05ef60ef)
 - [Tomato-timer](https://tomato-timer.com/)
 
 ## Stress Management
