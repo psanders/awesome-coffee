@@ -50,6 +50,7 @@ A curated **and opinionated** list of resources for Software Engineers, with the
 - [Bullet Journal](https://bulletjournal.com/)
 - Decision journal
 - Mood Journal
+- Time journal
 
 ## Collaboration
 
