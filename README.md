@@ -4,6 +4,8 @@
 
 A curated **and opinionated** list of resources for Software Engineers, with the emphasis on productivity and overall well-being.
 
+> Work in progress 🔨
+
 ## Content
 
 - [General](#general)
