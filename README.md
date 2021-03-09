@@ -36,6 +36,7 @@ A curated **and opinionated** list of resources for Software Engineers, with the
 
 ## Time Management
 
+- [Do the ugly things first](https://www.youtube.com/watch?v=oTugjssqOT0&t=1256s)
 - Pomodoro
 - [Tomato-timer](https://tomato-timer.com/)
 
