@@ -20,26 +20,26 @@ A curated **and opinionated** list of resources for Software Engineers, with the
 ## General
 
 - Meditation
-- Avoid interruptions
-- White noise is your friend
-- Eat well and exercise
-- Maintaining good energy levels
+- Avoid Interruptions
+- White Noise is your Friend
+- Eat Well and Exercise
+- Maintaining Good Energy Levels
 - [Staying focus](https://www.focusmate.com/)
 
 ## Better Sleep
 
 - [Circadian rhythm](https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx)
-- [Sleep regulation with melatonin (MIT article)](https://news.mit.edu/2005/melatonin)
-- [Blue light has a dark side (Harvard article)](https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side)
-- [Blue blockers glasses (Amazon)](https://www.amazon.com/blue-blocker-glasses/s?k=blue+blocker+glasses)
-- [Track your sleep](https://ouraring.com/)
-- [Get better sleep with blackouts](https://www.youtube.com/watch?v=0O2gpMDUr7o)
-- [Setting the stage for sounder sleep](https://www.health.harvard.edu/staying-healthy/setting-the-stage-for-sounder-sleep)
+- [Sleep Regulation with Melatonin (MIT article)](https://news.mit.edu/2005/melatonin)
+- [Blue Light has a Dark Side (Harvard article)](https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side)
+- [Blue Blockers Glasses (Amazon)](https://www.amazon.com/blue-blocker-glasses/s?k=blue+blocker+glasses)
+- [Track your Sleep](https://ouraring.com/)
+- [Get Better Sleep with Blackouts](https://www.youtube.com/watch?v=0O2gpMDUr7o)
+- [Setting the Stage for Sounder Sleep](https://www.health.harvard.edu/staying-healthy/setting-the-stage-for-sounder-sleep)
 
 ## Time Management
 
 - [Do the ugly things first](https://www.youtube.com/watch?v=oTugjssqOT0&t=1256s)
-- [Find your creative time](https://youtu.be/oTugjssqOT0?t=2716)
+- [Find your Creative Time](https://youtu.be/oTugjssqOT0?t=2716)
 - [Pomodoro Technique](https://medium.com/@hectormunozg/complete-guide-to-the-pomodoro-technique-613d05ef60ef)
 - [Tomato-timer](https://tomato-timer.com/)
 
@@ -48,13 +48,13 @@ A curated **and opinionated** list of resources for Software Engineers, with the
 ## Journals
 
 - [Bullet Journal](https://bulletjournal.com/)
-- Decision journal
+- Decision Journal
 - Mood Journal
-- Time journal
+- [Time Journal (Amazon)](https://www.amazon.com/dp/B07X3XV7J7)
 
 ## Collaboration
 
-- [Faster meetings](https://trymeeter.com/)
+- [Faster Meetings](https://trymeeter.com/)
 
 ## Books
 
@@ -63,5 +63,5 @@ A curated **and opinionated** list of resources for Software Engineers, with the
 ## Misc
 
 - Deep/shallow work
-- Attention disorder
+- Attention Disorder
 - Bucket List
