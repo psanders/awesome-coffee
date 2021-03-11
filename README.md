@@ -29,8 +29,8 @@ A curated **and opinionated** list of resources for Software Engineers, with the
 ## Better Sleep
 
 - [Circadian rhythm](https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx)
-- [Sleep regulation with melatonin (MIT)](https://news.mit.edu/2005/melatonin)
-- [Blue light has a dark side(Harvard article)](https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side)
+- [Sleep regulation with melatonin (MIT article)](https://news.mit.edu/2005/melatonin)
+- [Blue light has a dark side (Harvard article)](https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side)
 - [Blue blockers glasses (Amazon)](https://www.amazon.com/blue-blocker-glasses/s?k=blue+blocker+glasses)
 - [Track your sleep](https://ouraring.com/)
 - [Get better sleep with blackouts](https://www.youtube.com/watch?v=0O2gpMDUr7o)
