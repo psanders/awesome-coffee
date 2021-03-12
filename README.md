@@ -20,7 +20,7 @@ A curated **and opinionated** list of resources for Software Engineers, with the
 ## General
 
 - Meditation
-- [How Context Switching Sabotages Your Productivity](https://blog.doist.com/context-switching/)
+- [How Context Switching Sabotages your Productivity](https://blog.doist.com/context-switching/)
 - Avoid Interruptions
 - White Noise is your Friend
 - Eat Well and Exercise
