@@ -66,3 +66,7 @@ A curated **and opinionated** list of resources for Software Engineers, with the
 - [The Complete Guide to Deep Work](https://blog.doist.com/deep-work/)
 - Attention Disorder
 - Bucket List
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
