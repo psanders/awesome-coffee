@@ -49,7 +49,7 @@ A curated **and opinionated** list of resources for Software Engineers, with the
 ## Journals
 
 - [Bullet Journal](https://bulletjournal.com/)
-- Decision Journal
+- [Know Thyself: The Power of a Decision Journal](https://hackernoon.com/know-thyself-the-power-of-a-decision-journal-abf00c22b05d)
 - Mood Journal
 - [Time Journal (Amazon)](https://www.amazon.com/dp/B07X3XV7J7)
 
