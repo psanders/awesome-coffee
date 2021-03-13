@@ -50,7 +50,7 @@ A curated **and opinionated** list of resources for Software Engineers, with the
 
 - [Bullet Journal](https://bulletjournal.com/)
 - [The Power of a Decision Journal](https://hackernoon.com/know-thyself-the-power-of-a-decision-journal-abf00c22b05d)
-- Mood Journal
+- [Mood Journal Is Good For Your Mental Health](https://www.lifehack.org/875824/mood-journal)
 - [Time Journal (Amazon)](https://www.amazon.com/dp/B07X3XV7J7)
 
 ## Collaboration
