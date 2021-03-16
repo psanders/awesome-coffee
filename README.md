@@ -65,8 +65,6 @@ A curated **and opinionated** list of resources for Software Engineers, with the
 ## Misc
 
 - [The Complete Guide to Deep Work](https://blog.doist.com/deep-work/)
-- Attention Disorder
-- Bucket List
 
 ## License
 
