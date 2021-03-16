@@ -10,21 +10,20 @@ A curated **and opinionated** list of resources for Software Engineers, with the
 
 - [General](#general)
 - [Better Sleep](#better-sleep)
-- [Time Managment](#time-managment)
-- [Stress Managment](#stress-managment)
+- [Time Managment](#time-management)
+- [Stress Managment](#stress-management)
 - [Journals](#journals)
 - [Collaboration](#collaboration)
 - [Books](#books)
-- [Misc](#books)
+- [Misc](#misc)
 
 ## General
 
-- Meditation
+- [Meditation for Programmers](https://codingmindfully.com/the-ultimate-guide-to-meditation-for-programmers/)
 - [How Context Switching Sabotages your Productivity](https://blog.doist.com/context-switching/)
-- Avoid Interruptions
-- White Noise is your Friend
-- Eat Well and Exercise
-- Maintaining Good Energy Levels
+- [Avoid Interruptions if Possible](https://today.uconn.edu/2020/12/uconn-management-professor-workplace-interruptions-jeopardize-productivity/)
+- [Controlling the Noise Around You](https://www.makeuseof.com/tag/focus-white-pink-brown-noise/)
+- [7 Ways To Stay Healthy As A Programmer](https://dev.to/desoga/7-ways-to-stay-healthy-as-a-programmer-3fjl)
 - [Staying focus](https://www.focusmate.com/)
 
 ## Better Sleep
@@ -45,6 +44,8 @@ A curated **and opinionated** list of resources for Software Engineers, with the
 - [Tomato-timer](https://tomato-timer.com/)
 
 ## Stress Management
+
+- [Ways to Manage Stress](https://www.webmd.com/balance/stress-management/stress-management)
 
 ## Journals
 
