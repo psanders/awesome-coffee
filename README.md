@@ -62,6 +62,7 @@ A curated **and opinionated** list of resources for Software Engineers, with the
 ## Books
 
 - [On Managing Yourself](https://www.amazon.com/Managing-Yourself-Measure-Clayton-Christensen/dp/1422157997)
+- [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
 
 ## Misc
 
