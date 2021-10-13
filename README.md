@@ -4,7 +4,7 @@
 
 ![Repo Banner](https://raw.githubusercontent.com/psanders/awesome-coffee/main/repo_banner.jpg)
 
-A curated **and opinionated** list of resources for Software Engineers, with the emphasis on productivity and overall well-being.
+A curated **and opinionated** list of resources for tech professionals, with the emphasis on productivity and overall well-being.
 
 > Work in progress 🔨
 
