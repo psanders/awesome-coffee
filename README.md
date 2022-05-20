@@ -60,6 +60,7 @@ A curated **and opinionated** list of resources for tech professionals, with the
 ## Collaboration
 
 - [Faster Meetings](https://trymeeter.com/)
+- [Loom](https://loom.com/)
 
 ## Books
 
