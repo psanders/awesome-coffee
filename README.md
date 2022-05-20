@@ -37,6 +37,7 @@ A curated **and opinionated** list of resources for tech professionals, with the
 - [Track your Sleep](https://ouraring.com/)
 - [Get Better Sleep with Blackouts](https://www.youtube.com/watch?v=0O2gpMDUr7o)
 - [Setting the Stage for Sounder Sleep](https://www.health.harvard.edu/staying-healthy/setting-the-stage-for-sounder-sleep)
+- [Sleep Calculator](https://sleepcalculator.com/)
 
 ## Time Management
 
@@ -66,6 +67,7 @@ A curated **and opinionated** list of resources for tech professionals, with the
 
 - [On Managing Yourself](https://www.amazon.com/Managing-Yourself-Measure-Clayton-Christensen/dp/1422157997)
 - [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
+- [The 5 Second Rule](https://www.amazon.com/Second-Rule-Transform-Confidence-Everyday/dp/1682612384)
 
 ## Misc
 
