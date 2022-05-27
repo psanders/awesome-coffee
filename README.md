@@ -63,6 +63,10 @@ A curated **and opinionated** list of resources for tech professionals, with the
 - [Faster Meetings](https://trymeeter.com/)
 - [Loom](https://loom.com/)
 
+## ADHD Resources 🙈
+
+- [ADHD Entrepreneur? This changes everything...](https://www.youtube.com/watch?v=oXhc_YUO1Fo)
+
 ## Books
 
 - [On Managing Yourself](https://www.amazon.com/Managing-Yourself-Measure-Clayton-Christensen/dp/1422157997)
