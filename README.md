@@ -28,6 +28,7 @@ A curated **and opinionated** list of resources for tech professionals, with the
 - [7 Ways To Stay Healthy As A Programmer](https://dev.to/desoga/7-ways-to-stay-healthy-as-a-programmer-3fjl)
 - [Staying focus](https://www.focusmate.com/)
 - [How Much Caffeine Is in Coffee? (CoffeeStudies)](https://coffeestudies.com/caffeine-health/how-much-caffeine-in-coffee)
+- [Brew Ratio & Caffeine Calculators (BrewLab)](https://brewlab-one.vercel.app/brew-calculator.html) - Free no-signup calculators: brew ratio to water weight, brew timer, and a caffeine estimate.
 
 ## Better Sleep
 
