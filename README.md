@@ -48,6 +48,7 @@ A curated **and opinionated** list of resources for tech professionals, with the
 - [Find your Creative Time](https://youtu.be/oTugjssqOT0?t=2716)
 - [Pomodoro Technique](https://medium.com/@hectormunozg/complete-guide-to-the-pomodoro-technique-613d05ef60ef)
 - [Tomato-timer](https://tomato-timer.com/)
+- [Awayra](https://github.com/AWAYRA/AWAYRA-WPF) - Free, offline Windows eye-rest and movement reminders with independent timers, work hours and snooze.
 
 ## Stress Management
 
